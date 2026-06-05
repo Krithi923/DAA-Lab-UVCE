@@ -34,7 +34,8 @@ Solving complex problems by breaking them down into overlapping sub-problems, co
 Exploring all possible state spaces systematically to locate valid configurations or absolute optimal paths.
 * `NQueens_14.java` — N-Queens constraint satisfaction puzzle mapping.
 * `TSPExp.java` — Traveling Salesperson Problem exact evaluation.
-* `graph/` & `pattern/` — Structural tree traversals and string-matching/matrix patterns.
+* `graph/` — Structural tree and graph traversal implementations.
+* `pattern/` — Nested `for` loop matrix and geometric pattern printing used for analyzing nested structural time complexity ($\mathcal{O}(n^2)$ loop variations).
 * `PrimeNumbers.java` — Basic prime generation evaluations.
 
 ---
